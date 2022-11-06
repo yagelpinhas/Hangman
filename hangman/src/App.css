@@ -52,3 +52,18 @@
 .low-score{
   color: red;
 }
+
+.restart{
+  background-color: aquamarine;
+}
+
+.hint{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: plum
+}
+
+.available-letters{
+  font-family: 'Times New Roman', Times, serif;
+  color: blue;
+  font-weight: bold;
+}
